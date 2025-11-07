@@ -13708,3 +13708,12 @@ Entries:
   id: 1518
   time: '2025-11-07T14:24:22.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2571
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: Sellsword updated for manual loading!
+    - type: Tweak
+      message: Takeaway received spare 20mm drums for manual loading. No autoloader.
+  id: 1519
+  time: '2025-11-07T14:28:13.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2513
