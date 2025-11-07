@@ -13684,3 +13684,10 @@ Entries:
   id: 1515
   time: '2025-11-07T00:08:56.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2568
+- author: Arcticular1
+  changes:
+    - type: Tweak
+      message: AME Jars have less explosive power
+  id: 1516
+  time: '2025-11-07T00:11:19.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2562
