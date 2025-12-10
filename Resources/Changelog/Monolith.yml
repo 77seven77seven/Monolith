@@ -14819,3 +14819,10 @@ Entries:
   id: 1643
   time: '2025-12-10T12:15:17.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2776
+- author: Ilya246
+  changes:
+    - type: Fix
+      message: Diagonal lattice and plating now properly renders on radar.
+  id: 1644
+  time: '2025-12-10T20:20:10.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2772
