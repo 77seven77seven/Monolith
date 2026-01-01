@@ -15556,3 +15556,10 @@ Entries:
   id: 1726
   time: '2026-01-01T15:27:11.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2875
+- author: Helicaste
+  changes:
+    - type: Tweak
+      message: Changed Asakim rules/lore to focus on claiming POIs.
+  id: 1727
+  time: '2026-01-01T15:30:31.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2832
