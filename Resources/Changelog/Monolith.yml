@@ -15954,3 +15954,16 @@ Entries:
   id: 1769
   time: '2026-01-09T13:56:22.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2994
+- author: Arcticular1
+  changes:
+    - type: Add
+      message: Added command comms and access to the PDV.
+    - type: Add
+      message: Helios now has an AI and a dedicated civilian dock.
+    - type: Tweak
+      message: >-
+        Helios has had it's defenses and shipguns changed and nerfed, outer
+        turrets have also been replaced with standard ballistic ones.
+  id: 1770
+  time: '2026-01-09T14:12:00.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2992
