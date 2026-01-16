@@ -1,45 +1,58 @@
 <Document>
 # Trans-Solarian Federation (TSF) Lore Summary
 
-
-
-The [bold][color=cyan]Trans-Solarian Federation (TSF)[/bold][/color] is a dominant, galaxy-spanning superpower born from the ruins of
-the [bold]United Nations of Earth[/bold] after a brutal period of expansionist warfare known as [bold]The Fracture[/bold]. with
-Earth lost, the [bold][color=cyan]TSF[/bold][/color] re-established itself on [bold]Caligo Prime[/bold], becoming a hyper-capitalist, meritocratic regime
-bolstered by cutting-edge [bold]Bluespace[/bold] technology and FTL travel.
-
-A rigid class system defines daily life. Education, healthcare, housing, and job security are all influenced
-by wealth and corporate ties. While the elite enjoy technological luxuries and mobility, the lower classes
-are subjected to underfunded public systems, aggressive employment contracts, and expensive privatized services.
-
 <Box>
-[bold][color=cyan]"Order Through Dominion. Glory Through Merit." [/bold][/color]
+<GuideEntityEmbed Entity="BannerNGC"/>
 </Box>
 
-The [bold][color=cyan]TSF[/bold][/color] is lead primarily by two executive powers who separate their control of the
-government between military and civil administration. The [bold][color=cyan]TSF[/bold][/color] Navy and Marines are directed
-by [bold]Winter Solstice[/bold], an elusive and veiled figure who operates the military in the darkness, and
-the formal civil government is headed by the President, who acts as a psuedo-dictator and gives
-orders to [bold]Winter Solstice[/bold] directly, making the President the chief authority of the entire galactic
-state. The [bold][color=cyan]TSF[/bold][/color] Navy and Marines tout some of the most advanced and optimized technology on
-their spacecrafts, focusing on densely-equipped, high-power ships with terrifying effectiveness
-and only the top-notch communications, weaponry, and transportation equipment in their
-Marines and ground troops. This doctrine leaves their military remarkably effective but equally
-expensive, and popular and corporate support for the military is primarily what keeps the
-exorbitant budget demands of the [bold][color=cyan]TSF[/bold][/color] military afloat.
+Founded in 2298 after months of chaos following the dissolution of the United Nations of Earth, the [bold]TSF[/bold] promised to uphold order and bring in a new age of prosperity for the human race among the stars.
+With their capital in the city of Caligo Prime on the planet of Mars, a close neighbor to the Nature World of Earth (alternative names include Terra or Gaia), they have one of the highest
+influence over life in the entire Milky Way.
 
-The Federation values productivity, personal ambition, and economic power, reinforcing a belief that
-success comes only to the hardest workers—while failure is seen as moral weakness. Cultural expression
-is dominated by corporate-controlled media, competitive gaming, and synthetic entertainment.
-Propaganda heavily promotes loyalty, militarism, and consumerism, with military service and
-entrepreneurship held as the highest callings.
+Even though the [bold]TSF[/bold] was powerful enough as is, with the dissolution of Nanotrasen as a corporate entity following attempts to repair their
+irreparable status and brand following the Great Corporate War they provided shelter to high-value NT scientists, paving way for the re-discovery of old technological marvels of the UNE-era.
 
-Despite the Federation’s propaganda of unity, dissent simmers beneath the surface. Various fringe
-groups, insurgents, and ideological rivals like the [bold][color=brown]USSP[/bold][/color] and [bold][color=#8B0000]Phaethon Dynasty[/bold][/color] oppose the [bold][color=cyan]TSF's[/bold][/color] control,
-though open rebellion is rare due to the Federation’s overwhelming power.
+Their accomplishments, even if very strategically-important, are hardly ever appreciated by the spoiled populace of Sol,
+used to the prosperous economy of the UNE and near-utopian technology, whose standards are set higher than whatever the [bold]TSF[/bold] can ever provide.
 
-Celebrations such as the [bold]Grand Games[/bold], [bold]Day of Solus[/bold], and [bold]Autonomy Day[/bold] serve to rally patriotism and
-maintain morale. Meanwhile, many citizens quietly endure a lifestyle built on survival, simulation, and
-illusion—wrapped in the synthetic sheen of Federation glory.
+<Box>
+[bold][color=cyan]"Should we stand idle while the rest of Human remnants stand uncivilized? Meddling in the blood-stained mud while we stay in our ships high above ground? No, we will help them into the prosperous eras once more." [/bold][/color]
 
+Former president F. Jones on the matter of whether or not the First Contact bill should be passed into law.
+</Box>
+
+The [bold]TSF[/bold] is lead by the President, which is elected every 10 years, serving as the executive branch of the government.
+
+While the industrial and subsequent military powers of the [bold]TSF[/bold] may seem overwhelming at first, one must realize that open warfare beside PMC meddling actually directed by Humans was
+rare during times of the UNE... which means that the [bold]TSF Navy[/bold] and [bold]Marine Corps[/bold] often rely mostly on theory for their tactics and hypotheticals on their strategy.
+While this may seem laughable to most war-loving factions or species, do not ever underestimate how fast people (especially Humans) adapt.
+
+The Department of Ground and Space Warfare, a deparment in the Trans-Solarian [bold]Federation[/bold] Science Cabinet, was founded shortly after the dawn of the TSF,
+the GaSW is responsible for running combat simulations and developing/rediscovering the concerns of tactics,
+strategy and logistics on a battlefield after the years of relative peace (as in violent conflict did not include humans fighting).
+
+A fully militarized [bold]Federation[/bold] would be a force to be reckoned with, and most major factions know that, utilizing insurgents forces and surprise attacks. Even though this isn't the [bold]only reason...[/bold]
+
+The [bold]Federation[/bold] values productivity, personal ambition, and economic power, reinforcing a belief that
+success comes only to the hardest workers.
+
+Despite the [bold]Federation[/bold]'s attempts at unity, dissent simmers beneath the surface. Various fringe
+groups, insurgents, and ideological rivals like the [bold][color=brown]USSP[/bold][/color] and [bold][color=#8B0000]Phaethon Dynasty[/bold][/color] oppose the [bold]TSF's[/bold] control,
+though open rebellion is rare due to the [bold]Federation[/bold]'s overwhelming power in their respective sectors of influence.
+
+High Command, a popular term among the military forces of the TSFN and TSFMC, usually refers to the group of people in charge of commanding
+the military arms of the [bold]Federation[/bold].
+
+Central Command, or CentCom for short is a term usually used to refer to the civilian government of the TSF, however it may also be used to refer to High Command.
+
+## Noteworthy Government Entities
+
+- TSFN: Trans-Solarian Federation Navy, the military arm of the TSF.
+-- TSFMC: Trans-Solarian Federation Marine Corps, serving as infantry for planetary combat or boarding troops.
+-- TSFMP: Trans-Solarian Federation Marine Police. While still serving under the TSFN they have an unique authority, as in that every member of the MP serves technically independently and does not have to follow orders outside of the TSFMP.
+
+- TSFSC: Trans-Solarian Federation Science Cabinet, as a government entity it doesn't do much on its own.
+-- DoA&TS: Department of Applied & Theoretical Sciences
+-- ATBA: Applied & Theoretical Bluespace Applications, a sub-department in the DoA&TS. The name is rather self-descriptive. \nOther misc. Departments delegated to their own sciences, such as: biology, geology, physics, chemistry, etc.
+-- DoG&SW: Department of Ground & Space Warfare, founded shortly after the dawn of the TSF, the G&SW is responsible for running combat simulations and developing/rediscovering the concerns of tactics, strategy and logistics on a battlefield after the years of relative peace (as in violent conflict did not include humans fighting).
 </Document>

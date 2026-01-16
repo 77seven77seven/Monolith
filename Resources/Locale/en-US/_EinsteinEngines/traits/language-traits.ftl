@@ -5,29 +5,31 @@ trait-category-languages = Languages
 
 trait-language-foreigner-light-name = Foreigner Light
 trait-language-foreigner-light-desc =
-    You understand the common language, Andromeda Standard Basic, but you can't quite speak it yet.
+    You understand the common language, Universal Esperanto, but you can't quite speak it yet.
     You have a translator to help you with your basic understanding of the language, better keep it charged.
 
 trait-language-foreigner-name = Foreigner
 trait-language-foreigner-desc =
-    You can't understand the common language, Andromeda Standard, and you require a translator at all times to talk.
+    You can't understand the common language, Universal Esperanto, and you require a translator at all times to talk.
     You have a translator to help you with your understanding and speaking, make sure to keep it charged.
 
 trait-language-signlanguage-name = Sign Language
 trait-language-signlanguage-desc =
     The use of body language, hand signs, and other forms of dexterous movements to get your point across.
-    You can understand and use Andromeda Standard Basic Sign Language (TCB-SL).
+    You can understand and use Universal Esperanto Basic Sign Language (UEB-SL).
     If you are mute for any reason, you can still communicate with sign language.
 
-trait-language-solcommon-name = Sol Common
+trait-language-solcommon-name = Esperanto
 trait-language-solcommon-desc =
-    With its roots in Mandarin Chinese - Common evolved as the official language of the Trans-Solar Federation - with officials working to tie it together with a common tongue.
-    It's spoken by state officials, the armed forces, by those who either feel a sense of national pride in the Federation or otherwise fell sway to the culture.
+    Esperanto, not to be confused for Universal Esperanto, is the military language of the Trans-Solarian Federation. Spoken mostly by soldiers, officers, or political officials wanting
+    to gain the trust of the Navy. With the TSFN being mostly populated by Humans, there was no need to modify the language. While being easier on the throat of the common Human, it is a nightmare to learn
+    for most alien species.
 
 trait-language-tradeband-name = Tradeband
 trait-language-tradeband-desc =
-    Descended from latin and romance languages of old Earth - Tradeband remains the main tongue of the upper class of humanity.
-    The language sounds elegant and well structured to most ears. It remains in popular use with traders - diplomats - and those seeking to hold onto a piece of a romantic past.
+    Descended from Latin and Romance languages of old-Earth, Tradeband used to serve as a language for the so called 'upper-class' of the United Nations of Earth - spoken mostly
+    by politicians or by high-earning CEOs in private meetings to ensure trade confidentiality.
+    While its original use is now largely buried in the mud, Tradeband is still used by spacers today... even if to limited extents.
 
 trait-language-freespeak-name = Asher
 trait-language-freespeak-desc =
@@ -56,5 +58,5 @@ trait-language-azaziba-desc =
     While waning since Moghes entered the galactic stage - it enjoys popular use by Unathi that never fell to the Hegemony's cultural dominance.
 
 trait-language-SiikMaas-name = Siik'maas
-trait-language-SiikMaas-desc = 
+trait-language-SiikMaas-desc =
     The ancient religious tongue of the Tajara, now the most widely spoken and taught language on Adhomai.
