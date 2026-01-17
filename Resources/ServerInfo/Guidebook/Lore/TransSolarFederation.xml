@@ -1,9 +1,12 @@
 <Document>
 # Trans-Solarian Federation (TSF) Lore Summary
 
-<Box>
 <GuideEntityEmbed Entity="BannerNGC"/>
+
+<Box>
+[bold][color=cyan]"Should we stand idle while the rest of Human remnants stand decivilized? Meddling in the blood-stained mud while we stay in our ships high above ground? No, we will help them into the prosperous eras once more." [/bold][/color]
 </Box>
+\n
 
 Founded in 2298 after months of chaos following the dissolution of the United Nations of Earth, the [bold]TSF[/bold] promised to uphold order and bring in a new age of prosperity for the human race among the stars.
 With their capital in the city of Caligo Prime on the planet of Mars, a close neighbor to the Nature World of Earth (alternative names include Terra or Gaia), they have one of the highest
@@ -14,12 +17,6 @@ irreparable status and brand following the Great Corporate War they provided she
 
 Their accomplishments, even if very strategically-important, are hardly ever appreciated by the spoiled populace of Sol,
 used to the prosperous economy of the UNE and near-utopian technology, whose standards are set higher than whatever the [bold]TSF[/bold] can ever provide.
-
-<Box>
-[bold][color=cyan]"Should we stand idle while the rest of Human remnants stand uncivilized? Meddling in the blood-stained mud while we stay in our ships high above ground? No, we will help them into the prosperous eras once more." [/bold][/color]
-
-Former president F. Jones on the matter of whether or not the First Contact bill should be passed into law.
-</Box>
 
 The [bold]TSF[/bold] is lead by the President, which is elected every 10 years, serving as the executive branch of the government.
 
@@ -47,12 +44,12 @@ Central Command, or CentCom for short is a term usually used to refer to the civ
 
 ## Noteworthy Government Entities
 
-- TSFN: Trans-Solarian Federation Navy, the military arm of the TSF.
--- TSFMC: Trans-Solarian Federation Marine Corps, serving as infantry for planetary combat or boarding troops.
--- TSFMP: Trans-Solarian Federation Marine Police. While still serving under the TSFN they have an unique authority, as in that every member of the MP serves technically independently and does not have to follow orders outside of the TSFMP.
+- [bold]TSFN[/bold]: Trans-Solarian Federation Navy, the military arm of the TSF.
+-- [bold]TSFMC[/bold]: Trans-Solarian Federation Marine Corps, serving as infantry for planetary combat or boarding troops.
+-- [bold]TSFMP[/bold]: Trans-Solarian Federation Marine Police. While still serving under the TSFN they have an unique authority, as in that every member of the MP serves technically independently and does not have to follow orders outside of the TSFMP.
 
-- TSFSC: Trans-Solarian Federation Science Cabinet, as a government entity it doesn't do much on its own.
--- DoA&TS: Department of Applied & Theoretical Sciences
--- ATBA: Applied & Theoretical Bluespace Applications, a sub-department in the DoA&TS. The name is rather self-descriptive. \nOther misc. Departments delegated to their own sciences, such as: biology, geology, physics, chemistry, etc.
--- DoG&SW: Department of Ground & Space Warfare, founded shortly after the dawn of the TSF, the G&SW is responsible for running combat simulations and developing/rediscovering the concerns of tactics, strategy and logistics on a battlefield after the years of relative peace (as in violent conflict did not include humans fighting).
+- [bold]TSFSC[/bold]: Trans-Solarian Federation Science Cabinet, as a government entity it doesn't do much on its own.
+-- [bold]DoA&TS[/bold]: Department of Applied & Theoretical Sciences
+-- [bold]ATBA[/bold]: Applied & Theoretical Bluespace Applications, a sub-department in the DoA&TS. The name is rather self-descriptive. \nOther misc. departments delegated to their own sciences also exist, such as: biology, geology, physics, chemistry, etc...
+-- [bold]DoG&SW[/bold]: Department of Ground & Space Warfare, founded shortly after the dawn of the TSF, the G&SW is responsible for running combat simulations and developing/rediscovering the concerns of tactics, strategy and logistics on a battlefield after the years of relative peace (as in violent conflict did not include humans fighting).
 </Document>
