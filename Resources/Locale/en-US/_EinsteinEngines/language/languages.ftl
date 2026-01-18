@@ -26,11 +26,11 @@ language-Azaziba-name = Azaziba
 language-Azaziba-description =
     A native language of Asakims consisting of a combination of spoken word and gesticulation.
 
-language-SolCommon-name = Esperanto
+language-SolCommon-name = Simplified Martian
 language-SolCommon-description =
-   Esperanto, not to be confused for Universal Esperanto, is the military language of the Trans-Solarian Federation. Spoken mostly by soldiers, officers, or political officials wanting
-   to gain the trust of the Navy. With the TSFN being mostly populated by Humans, there was no need to modify the language. While being easier on the throat of the common Human, it is a nightmare to learn
-   for most alien species.
+   Following the Mass Evacuation of Earth, the former Terrans were expected to quickly adapt themselves to the largely different environment on Mars (both culturally and biologically). Martian was a difficult language to learn, even for people born on the Red Planet,
+   and after the exodus of Earth it signaled to Humanity that the language should be simplified. Both to the now tentupled population and for future generations.
+   Even though that Simplified Martian was effectively rendered 'obsolete' by the resurgence of Universal Espirito, many people still speak it, and it remains the official language of the TSF.
 
 language-NovuNederic-name = Novu-Nederic
 language-NovuNederic-description =
@@ -40,13 +40,13 @@ language-NovuNederic-description =
 
 language-NovaCygniBasic-name = Nova-Cygnin
 language-NovaCygniBasic-description =
-    Nova-Cygnin, developed by the USSP over their long years of attempted collaboration between each other is a mix of old-Earth languages that share common roots.
+    Nova-Cygnin, developed by the USSP over their long years of attempted collaboration between each other is a mix of old-Earth languages that share common roots and of the language that their corporate overlords used to speak (much to their dismay).
     While not particularly efficient in transmitting words or ideas (ironic, isn't it?), and practically unrecognizable to anyone speaking more 'modern' languages, it still
     gets the job done.
 
-language-TauCetiBasic-name = Universal Esperanto
+language-TauCetiBasic-name = Universal Espirito
 language-TauCetiBasic-description =
-    Universal Esperanto is an artificial language constructed by the greatest linguists in the United Nations of Earth to allow for a greater unity among the still diverse cultures of Humanity. It has evolved rapidly with each discovery of an alien species, changing to allow more diverse
+    Universal Espirito is an artificial language constructed by the greatest linguists in the United Nations of Earth to allow for a greater unity among the still diverse cultures of Humanity. It has evolved rapidly with each discovery of an alien species, changing to allow more diverse
     and wider range of words and sounds that can be spoken by every known species. Unfortunately, this makes it almost impossible to learn if you didn't grow up surrounded by it, and learning it from a young age. While the UNE has long since ceased existence as a government entity, it is still
     popular and (true to its name) universal enough to warrant continued use.
 

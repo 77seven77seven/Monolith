@@ -5,25 +5,25 @@ trait-category-languages = Languages
 
 trait-language-foreigner-light-name = Foreigner Light
 trait-language-foreigner-light-desc =
-    You understand the common language, Universal Esperanto, but you can't quite speak it yet.
+    You understand the common language, Universal Espirito, but you can't quite speak it yet.
     You have a translator to help you with your basic understanding of the language, better keep it charged.
 
 trait-language-foreigner-name = Foreigner
 trait-language-foreigner-desc =
-    You can't understand the common language, Universal Esperanto, and you require a translator at all times to talk.
+    You can't understand the common language, Universal Espirito, and you require a translator at all times to talk.
     You have a translator to help you with your understanding and speaking, make sure to keep it charged.
 
 trait-language-signlanguage-name = Sign Language
 trait-language-signlanguage-desc =
     The use of body language, hand signs, and other forms of dexterous movements to get your point across.
-    You can understand and use Universal Esperanto Basic Sign Language (UEB-SL).
+    You can understand and use Universal Espirito Basic Sign Language (UEB-SL).
     If you are mute for any reason, you can still communicate with sign language.
 
-trait-language-solcommon-name = Esperanto
+trait-language-solcommon-name = Simplified Martian
 trait-language-solcommon-desc =
-    Esperanto, not to be confused for Universal Esperanto, is the military language of the Trans-Solarian Federation. Spoken mostly by soldiers, officers, or political officials wanting
-    to gain the trust of the Navy. With the TSFN being mostly populated by Humans, there was no need to modify the language. While being easier on the throat of the common Human, it is a nightmare to learn
-    for most alien species.
+   Following the Mass Evacuation of Earth, the former Terrans were expected to quickly adapt themselves to the largely different environment on Mars (both culturally and biologically). Martian was a difficult language to learn, even for people born on the Red Planet,
+   and after the exodus of Earth it signaled to Humanity that the language should be simplified. Both to the now tentupled population and for future generations.
+   Even though that Simplified Martian was effectively rendered 'obsolete' by the resurgence of Universal Espirito, many people still speak it, and it remains the official language of the TSF.
 
 trait-language-tradeband-name = Tradeband
 trait-language-tradeband-desc =
