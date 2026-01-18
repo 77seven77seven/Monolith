@@ -26,10 +26,11 @@ language-Azaziba-name = Azaziba
 language-Azaziba-description =
     A native language of Asakims consisting of a combination of spoken word and gesticulation.
 
-language-SolCommon-name = Sol common
+language-SolCommon-name = Esperanto
 language-SolCommon-description =
-    With its roots in Mandarin Chinese - Common evolved as the official language of the Trans-Solar Federation - with officials working to tie it together with a common tongue.
-    It's spoken by state officials, the armed forces, by those who either feel a sense of national pride in the Federation or otherwise fell sway to the culture.
+   Esperanto, not to be confused for Universal Esperanto, is the military language of the Trans-Solarian Federation. Spoken mostly by soldiers, officers, or political officials wanting
+   to gain the trust of the Navy. With the TSFN being mostly populated by Humans, there was no need to modify the language. While being easier on the throat of the common Human, it is a nightmare to learn
+   for most alien species.
 
 language-NovuNederic-name = Novu-Nederic
 language-NovuNederic-description =
@@ -37,20 +38,23 @@ language-NovuNederic-description =
     Spoken in the New-Netherlands, this direct and pragmatic trade language carries the sharp consonants and clipped vowels of its old-world roots.
     Built on centuries of seafaring, land reclamation, and commerce, it thrives among those who shape entire worlds — just as their ancestors shaped the land from the sea.
 
-language-NovaCygniBasic-name = Nova-Cygni Basic
+language-NovaCygniBasic-name = Nova-Cygnin
 language-NovaCygniBasic-description =
-    A long split dialect of Sol Common, over the years it has turned into the language of the USSP.
-    To an outsider it sounds similar, but compared to Sol Common it sounds like gibberish.
+    Nova-Cygnin, developed by the USSP over their long years of attempted collaboration between each other is a mix of old-Earth languages that share common roots.
+    While not particularly efficient in transmitting words or ideas (ironic, isn't it?), and practically unrecognizable to anyone speaking more 'modern' languages, it still
+    gets the job done.
 
-language-TauCetiBasic-name = Andromeda Standard
+language-TauCetiBasic-name = Universal Esperanto
 language-TauCetiBasic-description =
-    Established shortly after humans had colonized their local cluster, the andromeda standard has evolved rapidly with each discovery of an alien species. Changing to allow more diverse,
-    and a wider range of words and sounds that can be spoken by every known species. Unfortunately, this makes it almost impossible to learn if you didn't grow up surrounded by it, and learning it from a young age.
+    Universal Esperanto is an artificial language constructed by the greatest linguists in the United Nations of Earth to allow for a greater unity among the still diverse cultures of Humanity. It has evolved rapidly with each discovery of an alien species, changing to allow more diverse
+    and wider range of words and sounds that can be spoken by every known species. Unfortunately, this makes it almost impossible to learn if you didn't grow up surrounded by it, and learning it from a young age. While the UNE has long since ceased existence as a government entity, it is still
+    popular and (true to its name) universal enough to warrant continued use.
 
 language-Tradeband-name = Tradeband
 language-Tradeband-description =
-    Descended from latin and romance languages of old Earth - Tradeband remains the main tongue of the upper class of humanity.
-    The language sounds elegant and well structured to most ears. It remains in popular use with traders - diplomats - and those seeking to hold onto a piece of a romantic past.
+    Descended from Latin and Romance languages of old-Earth, Tradeband used to serve as a language for the so called 'upper-class' of the United Nations of Earth - spoken mostly
+    by politicians or by high-earning CEOs in private meetings to ensure trade confidentiality.
+    While its original use is now largely buried in the mud, Tradeband is still used by spacers today... even if to limited extents.
 
 language-Freespeak-name = Asher
 language-Freespeak-description =
@@ -89,7 +93,7 @@ language-Marish-description =  A language spoken only by Shadowkin, one that is 
 language-ValyrianStandard-name = Valyrian Standard
 language-ValyrianStandard-description =
     A language descended from eastern european languages of old earth - Valyrian Standard is the commonly spoken tongue of Harpies brought up on their homeworld of Valyrian 4b
-    It is rarely spoken outside of the worlds of its native speakers, and has in modern times been supplanted by the 'Conlangs of the Trans-Solar Federation.
+    It is rarely spoken outside of the worlds of its native speakers, and has in modern times been supplanted by the 'Conlangs of the Trans-Solarian Federation.
     Its speakers are those who wish to uphold the traditions and beliefs of ancient peoples from before the colonial era.
 
 language-Chittin-name = Chittin
