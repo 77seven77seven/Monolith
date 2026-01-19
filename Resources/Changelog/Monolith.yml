@@ -16301,3 +16301,14 @@ Entries:
   id: 1804
   time: '2026-01-19T16:13:24.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3040
+- author: Arcticular1
+  changes:
+    - type: Tweak
+      message: All torpedoes and fighter bombs have been improved.
+    - type: Tweak
+      message: LOSATs no longer require synthalloy to make
+    - type: Fix
+      message: LOSATs now work properly.
+  id: 1805
+  time: '2026-01-19T16:17:08.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3071
