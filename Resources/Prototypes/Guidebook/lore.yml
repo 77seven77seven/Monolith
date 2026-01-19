@@ -6,7 +6,6 @@
   - PhaethonDynasty
   - TransSolarFederation
   - UnitedSovietSocialistPlanets
-  - ColossusSector
 
 - type: guideEntry
   id: PhaethonDynasty
@@ -17,24 +16,13 @@
   id: TransSolarFederation
   name: Trans-Solar Federation
   text: "/ServerInfo/Guidebook/Lore/TransSolarFederation.xml"
+  children:
+  - TSFSCIncident
 
 - type: guideEntry
   id: UnitedSovietSocialistPlanets
   name: United Soviet Socialist Planets
   text: "/ServerInfo/Guidebook/Lore/UnitedSovietSocialistPlanets.xml"
-
-- type: guideEntry
-  id: ColossusSector
-  name: The Colossus Sector
-  text: "/ServerInfo/Guidebook/Lore/ColossusSector.xml"
-  children:
-  - TSFSCIncident
-  - SectorTopology2 # apparently no duplicates are allowed so i have to do THIS stupid shit
-
-- type: guideEntry
-  id: SectorTopology2
-  name: guide-entry-sector-topology
-  text: "/ServerInfo/_NF/Guidebook/SectorTopology.xml"
 
 - type: guideEntry
   id: TSFSCIncident
