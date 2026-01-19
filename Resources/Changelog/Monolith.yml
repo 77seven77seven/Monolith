@@ -16283,3 +16283,10 @@ Entries:
   id: 1802
   time: '2026-01-19T12:16:29.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2998
+- author: NazrinNya
+  changes:
+    - type: Add
+      message: Added new DoC-only shuttle - Phantom.
+  id: 1803
+  time: '2026-01-19T13:00:48.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3057
