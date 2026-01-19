@@ -16364,3 +16364,10 @@ Entries:
   id: 1811
   time: '2026-01-19T17:35:52.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3021
+- author: Arcticular1
+  changes:
+    - type: Tweak
+      message: Europa has received some minor improvements
+  id: 1812
+  time: '2026-01-19T18:07:26.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3052
