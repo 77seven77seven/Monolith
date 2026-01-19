@@ -16328,3 +16328,10 @@ Entries:
   id: 1807
   time: '2026-01-19T16:18:42.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3031
+- author: Arcticular1
+  changes:
+    - type: Fix
+      message: Fixed up the PDV lore and Monolith lore! Rejoice!
+  id: 1808
+  time: '2026-01-19T16:22:04.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2630
