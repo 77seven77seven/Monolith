@@ -16554,3 +16554,12 @@ Entries:
   id: 1834
   time: '2026-01-25T18:29:25.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/3051
+- author: Ilya246
+  changes:
+    - type: Add
+      message: Fissile uranium now radiates more depending on received radiation.
+    - type: Add
+      message: Fissile uranium now explodes upon crossing a radiation threshold.
+  id: 1835
+  time: '2026-01-25T18:35:27.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/3084
